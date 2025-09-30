@@ -71,6 +71,6 @@ void main(List<String> arguments) {
     
   }
 
-  
+  stdin.readLineSync();
   
 }
